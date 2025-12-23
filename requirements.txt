@@ -1,0 +1,6 @@
+streamlit
+groq
+gTTS
+python-dotenv
+streamlit-mic-recorder
+numpy
