@@ -8,6 +8,7 @@ venv/
 temp/
 *.wav
 *.mp3
+*.mp4
 
 # IDE
 .vscode/
