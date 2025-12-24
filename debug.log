@@ -57,3 +57,46 @@
 2025-12-23 16:19:54,171 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
 2025-12-23 16:19:54,215 - INFO - Groq response received. Parsing JSON...
 2025-12-23 16:19:54,216 - INFO - Analysis successful.
+2025-12-23 17:07:10,397 - INFO - API Key loaded. Length: 56 characters.
+2025-12-24 08:06:40,382 - INFO - API Key loaded. Length: 56 characters.
+2025-12-24 08:06:45,532 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2025-12-24 08:06:45,573 - INFO - User Input:  Musik
+2025-12-24 08:06:45,573 - INFO - Sending request to Groq API...
+2025-12-24 08:06:46,016 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-24 08:06:46,051 - INFO - Groq response received. Parsing JSON...
+2025-12-24 08:06:46,053 - INFO - Analysis successful.
+2025-12-24 08:25:49,432 - INFO - API Key loaded. Length: 56 characters.
+2025-12-24 08:26:22,499 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2025-12-24 08:26:22,531 - INFO - User Input:  Guten Morgen! Wetteri, okay.
+2025-12-24 08:26:22,531 - INFO - Sending request to Groq API...
+2025-12-24 08:26:23,178 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-24 08:26:23,244 - INFO - Groq response received. Parsing JSON...
+2025-12-24 08:26:23,246 - INFO - Analysis successful.
+2025-12-24 08:33:53,714 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2025-12-24 08:33:53,720 - INFO - Starting analysis for: 🚨 ICU: Monitoring Alarm
+2025-12-24 08:33:53,721 - INFO - Sending request to Groq (Attempt 1)...
+2025-12-24 08:33:54,272 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-24 08:37:29,801 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2025-12-24 08:37:29,804 - INFO - Starting analysis for: 🚨 ICU: Monitoring Alarm
+2025-12-24 08:37:29,805 - INFO - Sending request to Groq (Attempt 1)...
+2025-12-24 08:37:30,608 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-24 08:41:49,811 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2025-12-24 08:41:49,814 - INFO - Starting analysis for: 🚨 ICU: Monitoring Alarm
+2025-12-24 08:41:49,815 - INFO - Sending request to Groq (Attempt 1)...
+2025-12-24 08:41:50,685 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-24 08:45:16,731 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2025-12-24 08:45:16,734 - INFO - Starting analysis for: 🚨 ICU: Monitoring Alarm
+2025-12-24 08:45:16,735 - INFO - Sending request to Groq (Attempt 1)...
+2025-12-24 08:45:17,635 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-24 08:49:59,486 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2025-12-24 08:49:59,491 - INFO - Starting analysis for: 🚨 ICU: Monitoring Alarm
+2025-12-24 08:49:59,492 - INFO - Sending request to Groq (Attempt 1)...
+2025-12-24 08:50:00,393 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-24 08:53:15,304 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2025-12-24 08:53:15,308 - INFO - Starting analysis for: 🚨 ICU: Monitoring Alarm
+2025-12-24 08:53:15,309 - INFO - Sending request to Groq (Attempt 1)...
+2025-12-24 08:53:15,920 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-24 09:05:13,986 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2025-12-24 09:05:13,987 - INFO - Starting analysis for: 🚨 ICU: Monitoring Alarm
+2025-12-24 09:05:13,988 - INFO - Sending request to Groq (Attempt 1)...
+2025-12-24 09:05:14,656 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
